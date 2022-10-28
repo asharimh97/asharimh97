@@ -9,7 +9,7 @@ I am Ashari Muhammad Hisbulloh, a frontend developer with >4 years experience an
 - 💻 I use `React JS` and `Next JS` in my daily life
 - ⚙️ I also write codes in: `.js(x)`, `.ts(x)`, `.css`, `.html`
 - 🔮 Currently building community **Komsi Frontend**
-- 🌏 On my way learning Deutsch and Korean
+- 🌏 On my way learning 🇩🇪 Deutsch and 🇰🇷 Korean
 
 ##### TRIVIA
 
