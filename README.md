@@ -9,7 +9,7 @@ I am Ashari Muhammad Hisbulloh, a frontend developer with >4 years experience an
 - 💻 I use `React JS` and `Next JS` in my daily life
 - ⚙️ I also write codes in: `.js(x)`, `.ts(x)`, `.css`, `.html`
 - 🔮 Currently building community **Komsi Frontend**
-- 🌏 On my way learning 🇪🇸 Español, 🇩🇪 Deutsch and 🇰🇷 Korean
+- 🌏 On my way learning 🇪🇸 Español and 🇩🇪 Deutsch.
 
 ##### TRIVIA
 
@@ -17,6 +17,7 @@ I am Ashari Muhammad Hisbulloh, a frontend developer with >4 years experience an
 - 🐈 A cat person and I really love domestic cats!
 - 🍸 I don't enjoy coffee, I prefer tea or water instead of coffee
 - ⛰ Really love outdoor activities, but it's been a while since my last hiking :(
+- 🏕️ Former World Scout Jamboree's IST!
 
 ####
 
