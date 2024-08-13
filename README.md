@@ -2,7 +2,7 @@
 
 #### Your friendly frontend developer
 
-I am Ashari Muhammad Hisbulloh, a frontend developer with >4 years experience and I am currently working as frontend developer in [Stockbit](https://stockbit.com). I like to explore things!
+I am Ashari Muhammad Hisbulloh, a frontend developer with >6 years of  professional experience. I like to explore things!
 
 ##### BIO
 
