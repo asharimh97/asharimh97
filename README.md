@@ -30,7 +30,7 @@ I am Ashari Muhammad Hisbulloh, a frontend developer with >6 years of  professio
 <a href="https://www.linkedin.com/in/asharimh97/" target="_blank">
   <img src="https://raw.githubusercontent.com/asharimh97/asharimh97/main/icons/in.png" alt="LinkedIn" width="30">
 </a>
-<a href="https://iamashari.space/" target="_blank">
+<a href="https://iamashari.me/" target="_blank">
   <img src="https://raw.githubusercontent.com/asharimh97/asharimh97/main/icons/www.png" alt="Website" width="30">
 </a>
 
