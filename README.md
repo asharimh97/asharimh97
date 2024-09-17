@@ -4,10 +4,15 @@
 
 I am Ashari Muhammad Hisbulloh, a frontend developer with >6 years of  professional experience. I like to explore things!
 
+[![Linkedin Badge](https://img.shields.io/badge/-asharimh97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asharimh97/)](https://www.linkedin.com/in/asharimh97/)
+[![Instagram Badge](https://img.shields.io/badge/-asharimh97-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/asharimh97/)](https://instagram.com/asharimh97)
+[![Medium Badge](https://img.shields.io/badge/-@iamashari-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@iamashari/)](https://medium.com/@iamashari)
+[![Gmail Badge](https://img.shields.io/badge/-asharimh97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asharimh97@gmail.com)](mailto:asharimh97@gmail.com)
+
 ##### BIO
 
 - 💻 I use `React JS` and `Next JS` in my daily life
-- ⚙️ I also write codes in: `.js(x)`, `.ts(x)`, `.css`, `.html`
+- ⚙️ I also write codes in: `.js(x)`, `.ts(x)`, `.css`, `.html`, and some ✨ `.svelte` ✨
 - 🔮 Currently building community **Komsi Frontend**
 - 🌏 On my way learning 🇪🇸 Español and 🇩🇪 Deutsch.
 
@@ -42,4 +47,4 @@ I am Ashari Muhammad Hisbulloh, a frontend developer with >6 years of  professio
 
 
 ####
-![Profile views](https://gpvc.arturio.dev/asharimh97?v=3)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=asharimh97)
