@@ -62,12 +62,6 @@ I am Ashari Muhammad Hisbulloh, a frontend developer with >6 years of  professio
   <img src="https://raw.githubusercontent.com/asharimh97/asharimh97/main/icons/www.png" alt="Website" width="30">
 </a>
 
-####
-
-<a href="https://github.com/asharimh97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asharimh97&show_icons=true&count_private=true" />
-</a>
-
 
 ####
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=asharimh97)
