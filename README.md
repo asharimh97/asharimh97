@@ -2,7 +2,7 @@
 
 #### Your friendly frontend developer
 
-I am Ashari Muhammad Hisbulloh, a frontend developer with >6 years of  professional experience. I like to explore things!
+I am Ashari Muhammad Hisbulloh, a frontend developer with >7 years of  professional experience. I like to explore things!
 
 [![Linkedin Badge](https://img.shields.io/badge/-asharimh97-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asharimh97/)](https://www.linkedin.com/in/asharimh97/)
 [![Instagram Badge](https://img.shields.io/badge/-asharimh97-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/asharimh97/)](https://instagram.com/asharimh97)
